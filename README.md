@@ -28,3 +28,7 @@ OKX_API_KEY=ваш_ключ
 OKX_SECRET=ваш_секрет
 TELEGRAM_TOKEN=токен
 TELEGRAM_CHAT_ID=чат_id
+
+
+## 🎥 Демо
+Видео-демонстрация: [Ссылка на Google Диск](https://drive.google.com/file/d/1osjYfjRr9kuESWE7Im_v8o9DjgU34jW4/view?usp=sharing)
