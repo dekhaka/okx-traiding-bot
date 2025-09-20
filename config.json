@@ -1,0 +1,12 @@
+{
+  "symbols": ["BTC-USDT", "ETH-USDT"],
+  "riskPerTrade": 0.01,
+  "dailyLossLimitPercent": 5.0,
+  "commissionRate": 0.0005,
+  "leverage": 5,
+  "atrFactorSL": 1.5,
+  "atrFactorTP": 2.0,
+  "strategies": ["BREAKOUT_LONG", "REVERSAL_SHORT", "REVERSAL_LONG", "BREAKOUT_SHORT"],
+  "atrTrailingFactor": 1.5,
+  "mode": "LIVE"
+}
