@@ -31,4 +31,4 @@ TELEGRAM_CHAT_ID=чат_id
 
 
 ## 🎥 Демо
-Видео-демонстрация: [Ссылка на Google Диск] [(https://drive.google.com/file/d/1osjYfjRr9kuESWE7Im_v8o9DjgU34jW4/view?usp=sharing)](https://drive.google.com/file/d/1L2VuDdnCv0d5r_Rw2QDoPjcMehNtnESp/view?usp=drive_link)](https://drive.google.com/file/d/1osjYfjRr9kuESWE7Im_v8o9DjgU34jW4/view?usp=drive_link)
+Видео-демонстрация: [Ссылка на Google Диск](https://drive.google.com/file/d/1L2VuDdnCv0d5r_Rw2QDoPjcMehNtnESp/view?usp=drive_link)](https://drive.google.com/file/d/1osjYfjRr9kuESWE7Im_v8o9DjgU34jW4/view?usp=drive_link)
